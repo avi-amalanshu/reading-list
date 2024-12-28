@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="textbooks base content">
+    <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="monographs base content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/monographs.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/monographs.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/textbooks/ml.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/textbooks/ml.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,7 @@
       <workItem from="1730807185806" duration="2252000" />
       <workItem from="1731238738343" duration="1319000" />
       <workItem from="1731240319419" duration="88000" />
-      <workItem from="1735206861606" duration="22746000" />
+      <workItem from="1735206861606" duration="23913000" />
     </task>
     <task id="LOCAL-00001" summary="mdbook init + test deploy">
       <option name="closed" value="true" />
@@ -111,7 +110,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735379465748</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="monographs base content">
+      <option name="closed" value="true" />
+      <created>1735402775013</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735402775013</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +129,7 @@
     <MESSAGE value="trying symlink docs -&gt; book" />
     <MESSAGE value="committing html files for new mds" />
     <MESSAGE value="textbooks base content" />
-    <option name="LAST_COMMIT_MESSAGE" value="textbooks base content" />
+    <MESSAGE value="monographs base content" />
+    <option name="LAST_COMMIT_MESSAGE" value="monographs base content" />
   </component>
 </project>
