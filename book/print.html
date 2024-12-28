@@ -89,7 +89,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded affix "><a href="welcome.html">Welcome</a></li><li class="chapter-item expanded "><a href="textbooks.html"><strong aria-hidden="true">1.</strong> Textbooks</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="textbooks/ml.html"><strong aria-hidden="true">1.1.</strong> Statistics, Information Theory and Learning</a></li><li class="chapter-item expanded "><a href="textbooks/systems.html"><strong aria-hidden="true">1.2.</strong> Information Security (and Systems at large)</a></li><li class="chapter-item expanded "><a href="textbooks/others.html"><strong aria-hidden="true">1.3.</strong> Others</a></li><li class="chapter-item expanded "><a href="textbooks/to_read.html"><strong aria-hidden="true">1.4.</strong> To-read</a></li></ol></li><li class="chapter-item expanded "><a href="novels.html"><strong aria-hidden="true">2.</strong> Novels</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="novels/fiction.html"><strong aria-hidden="true">2.1.</strong> Fiction</a></li><li class="chapter-item expanded "><a href="novels/non_fiction.html"><strong aria-hidden="true">2.2.</strong> Non-Fiction</a></li></ol></li><li class="chapter-item expanded "><a href="monographs.html"><strong aria-hidden="true">3.</strong> Monographs</a></li><li class="chapter-item expanded "><a href="papers.html"><strong aria-hidden="true">4.</strong> Papers</a></li><li class="chapter-item expanded "><a href="conferences.html"><strong aria-hidden="true">5.</strong> Conferences</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="welcome.html">Welcome</a></li><li class="chapter-item expanded "><a href="textbooks.html"><strong aria-hidden="true">1.</strong> Textbooks</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="textbooks/ml.html"><strong aria-hidden="true">1.1.</strong> Inference and Learning</a></li><li class="chapter-item expanded "><a href="textbooks/systems.html"><strong aria-hidden="true">1.2.</strong> Information Security (and Systems at large)</a></li><li class="chapter-item expanded "><a href="textbooks/others.html"><strong aria-hidden="true">1.3.</strong> Others</a></li><li class="chapter-item expanded "><a href="textbooks/to_read.html"><strong aria-hidden="true">1.4.</strong> To-read</a></li></ol></li><li class="chapter-item expanded "><a href="novels.html"><strong aria-hidden="true">2.</strong> Novels</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="novels/fiction.html"><strong aria-hidden="true">2.1.</strong> Fiction</a></li><li class="chapter-item expanded "><a href="novels/non_fiction.html"><strong aria-hidden="true">2.2.</strong> Non-Fiction</a></li></ol></li><li class="chapter-item expanded "><a href="monographs.html"><strong aria-hidden="true">3.</strong> Monographs</a></li><li class="chapter-item expanded "><a href="papers.html"><strong aria-hidden="true">4.</strong> Papers</a></li><li class="chapter-item expanded "><a href="conferences.html"><strong aria-hidden="true">5.</strong> Conferences</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
@@ -176,8 +176,9 @@
                     <main>
                         <h1 id="welcome"><a class="header" href="#welcome">Welcome</a></h1>
 <h2 id="about-me"><a class="header" href="#about-me">About Me:</a></h2>
-<p>I'm Avi Amalanshu, a 5th year undergraduate student (B.Tech + M.Tech dual degree) at IIT Kharagpur. These days, I'm doing research on
-Neurosymbolic Learning and MLSys. <a href="https://avi-amalanshu.github.io">Check out my website to learn more about me</a>.</p>
+<p>I'm Avi Amalanshu, a 5th year undergraduate student (B.Tech + M.Tech dual degree) at <a href="https://iitkgp.ac.in">IIT-KGP</a>.
+These days, I'm doing research on neurosymbolic and distributed learning-- broadly, the synthesis of hardcore statistical ML and systems (PL &amp; OS/metrics).
+<a href="https://avi-amalanshu.github.io">Check out my website to learn more</a>.</p>
 <h2 id="about-this"><a class="header" href="#about-this">About This:</a></h2>
 <p>This is going to contain two things:</p>
 <ol>
@@ -198,10 +199,36 @@ Neurosymbolic Learning and MLSys. <a href="https://avi-amalanshu.github.io">Chec
 </ul>
 <p>Use the sidebar to navigate. Happy reading!</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="textbooks"><a class="header" href="#textbooks">Textbooks</a></h1>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="statistics-information-theory-and-learning"><a class="header" href="#statistics-information-theory-and-learning">Statistics, Information Theory and Learning</a></h1>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="inference-and-learning"><a class="header" href="#inference-and-learning">Inference and Learning</a></h1>
+<p>I think people getting into ML (especially via self-study) sometimes try to get away with the bare minimum of probability.
+I am a staunch believer in studying in-context from statistics and information theory, even if your personal interests
+don't require them (if they do, I suggest a more rigorous treatment than what I present here). Besides gaining a more
+fundamental and usable understanding, the bigger picture-view makes it easier to focus on the right things. And, extra insight never hurt anyone.</p>
+<h2 id="probability--statistics-basics"><a class="header" href="#probability--statistics-basics">Probability &amp; Statistics Basics</a></h2>
+<ol>
+<li>Though quite brief, worth a skim for context: Pishro-Nik's online probability text. (H. Pishro-Nik, "Introduction to probability, statistics, and random processes", available at <a href="https://www.probabilitycourse.com">probabilitycourse.com</a>, Kappa Research LLC, 2014).</li>
+<li>Bertsekas and Tsitsiklis' book is not only a great introduction to the tools you'll need but is also covered through <a href="https://www-sop.inria.fr/members/Giovanni.Neglia/probas/bertsekas_tsitsiklis_probability.pdf">free lecture notes</a> and a great <a href="https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/">MIT OCW course w/ lecture videos</a>. (D.P. Bertsekas, J.N. Tsitsiklis "Introduction to probability" 2nd ed, Athena Scientific, Belmont, MA, 2008).</li>
+<li>The first few chapters of this parametric estimation book will give you an idea of theoretical constraints such as bias-variance tradeoff. Plus, it's a new (sigproc) angle to look at the same thing; always useful. If you find yourself interested in Bayesian methods the second half of the book may also be useful. (S.M. Kay "Fundamentals of statistical signal processing: estimation theory", Prentice-Hall signal processing series, 1993)</li>
+</ol>
+<h2 id="information-theory-and-inference"><a class="header" href="#information-theory-and-inference">Information Theory and Inference</a></h2>
+<ol>
+<li><a href="https://www.inference.org.uk/itprnn/book.pdf">David MacKay's book</a> is a fantastic and very readable introduction to the math behind inference. The book mentions which chapters are useful for which readers. You can probably skip the stuff on coding theory but it's fun + useful for some emerging ML topics. (D.J. MacKay "Information Theory,
+Inference, and Learning Algorithms" v7.2, Cambridge University Press, 2005)</li>
+<li>If you're interested in insight on issues with sample complexity/data efficiency, Chapter 11 of <a href="https://cs-114.org/wp-content/uploads/2015/01/Elements_of_Information_Theory_Elements.pdf">Cover &amp; Thomas</a> might be useful. (T.M. Cover, J.A. Thomas "Elements of Information Theory" 2nd ed, Wiley, 1991)</li>
+</ol>
+<h2 id="alternatively"><a class="header" href="#alternatively">Alternatively...</a></h2>
+<p>I've heard <a href="https://www.statlearning.com">ISLR/ISLP</a> is great and covers pretty much all the important parts of what I've described above. I haven't read it myself (it's rather new), but it looks great if you're into less math rigor and more English-heavy explanations. The authors are folks who have developed some pretty fundamental works in statistics in their own research. (G. James, D. Witten, T. Hastie, R. Tibshirani, J. Taylor "An introduction to statistical learning" w/ Applications in Python, Springer, 2023).</p>
+<h2 id="state-of-the-art-ml"><a class="header" href="#state-of-the-art-ml">State-of-the-Art ML</a></h2>
+<ol>
+<li>Though some think it's long in the tooth, at least the first two sections of the OG <a href="https://www.deeplearningbook.org">Deep Learning book</a> are excellent background. (I. Goodfellow, Y. Bengio, A. Courville "Deep learning", MIT Press, 2016).</li>
+<li><a href="https://www.bishopbook.com">The Bishops' Deep Learning book</a> is a more modern (as of '24) book from the authors of the OG ML book, Pattern Recog. &amp; Mach. Intel. (C.M. Bishop, H. Bishop "Deep Learning Foundations and Concepts", Springer, 2024)</li>
+</ol>
+<h2 id="special-topics"><a class="header" href="#special-topics">Special Topics</a></h2>
+<p>WIP</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="information-security-and-systems-at-large"><a class="header" href="#information-security-and-systems-at-large">Information Security (and Systems at large)</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="others"><a class="header" href="#others">Others</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="to-read"><a class="header" href="#to-read">To-read</a></h1>
+<p>WIP (honestly not sure if this section should exist at all)</p>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="novels"><a class="header" href="#novels">Novels</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="fiction"><a class="header" href="#fiction">Fiction</a></h1>
 <div style="break-before: page; page-break-before: always;"></div><h1 id="non-fiction"><a class="header" href="#non-fiction">Non-Fiction</a></h1>
@@ -226,22 +253,6 @@ Neurosymbolic Learning and MLSys. <a href="https://avi-amalanshu.github.io">Chec
 
         </div>
 
-        <!-- Livereload script (if served using the cli tool) -->
-        <script>
-            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
-            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
-            const socket = new WebSocket(wsAddress);
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
 
 
 

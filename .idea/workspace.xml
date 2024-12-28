@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="trying symlink docs -&gt; book" />
+    <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="committing html files for new mds">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/conferences.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/conferences.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/monographs.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/monographs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/novels.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/novels.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/novels/fiction.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/novels/fiction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/novels/non_fiction.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/novels/non_fiction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/print.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/print.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/searchindex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/searchindex.json" beforeDir="false" afterPath="$PROJECT_DIR$/book/searchindex.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/textbooks.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/textbooks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/textbooks/ml.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/textbooks/ml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/textbooks/others.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/textbooks/others.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/textbooks/systems.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/textbooks/systems.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/textbooks/to_read.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/textbooks/to_read.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textbooks/ml.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/textbooks/ml.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textbooks/to_read.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/textbooks/to_read.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/welcome.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/welcome.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +87,8 @@
       <updated>1730807184720</updated>
       <workItem from="1730807185806" duration="2252000" />
       <workItem from="1731238738343" duration="1319000" />
+      <workItem from="1731240319419" duration="88000" />
+      <workItem from="1735206861606" duration="17889000" />
     </task>
     <task id="LOCAL-00001" summary="mdbook init + test deploy">
       <option name="closed" value="true" />
@@ -89,7 +114,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731240022943</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="committing html files for new mds">
+      <option name="closed" value="true" />
+      <created>1731240385273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731240385273</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="mdbook init + test deploy" />
     <MESSAGE value="trying symlink docs -&gt; book" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying symlink docs -&gt; book" />
+    <MESSAGE value="committing html files for new mds" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing html files for new mds" />
   </component>
 </project>

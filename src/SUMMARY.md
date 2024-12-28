@@ -2,7 +2,7 @@
 
 [Welcome](./welcome.md)
 - [Textbooks](./textbooks.md)
-  - [Statistics, Information Theory and Learning](./textbooks/ml.md)
+  - [Inference and Learning](./textbooks/ml.md)
   - [Information Security (and Systems at large)](./textbooks/systems.md)
   - [Others](./textbooks/others.md)
   - [To-read](./textbooks/to_read.md)

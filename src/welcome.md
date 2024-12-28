@@ -1,8 +1,8 @@
 # Welcome
 ## About Me:
-I'm Avi Amalanshu, a 5th year undergraduate student (B.Tech + M.Tech dual degree) at IIT Kharagpur. These days, I'm doing research on 
-Neurosymbolic Learning and MLSys. [Check out my website to learn more about me](https://avi-amalanshu.github.io).
-
+I'm Avi Amalanshu, a 5th year undergraduate student (B.Tech + M.Tech dual degree) at [IIT-KGP](https://iitkgp.ac.in). 
+These days, I'm doing research on neurosymbolic and distributed learning-- broadly, the synthesis of hardcore statistical ML and systems (PL & OS/metrics). 
+[Check out my website to learn more](https://avi-amalanshu.github.io).
 ## About This:
 This is going to contain two things:
 1. My recommendations 

@@ -88,7 +88,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded affix "><a href="welcome.html">Welcome</a></li><li class="chapter-item expanded "><a href="textbooks.html"><strong aria-hidden="true">1.</strong> Textbooks</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="textbooks/ml.html"><strong aria-hidden="true">1.1.</strong> Statistics, Information Theory and Learning</a></li><li class="chapter-item expanded "><a href="textbooks/systems.html"><strong aria-hidden="true">1.2.</strong> Information Security (and Systems at large)</a></li><li class="chapter-item expanded "><a href="textbooks/others.html"><strong aria-hidden="true">1.3.</strong> Others</a></li><li class="chapter-item expanded "><a href="textbooks/to_read.html"><strong aria-hidden="true">1.4.</strong> To-read</a></li></ol></li><li class="chapter-item expanded "><a href="novels.html"><strong aria-hidden="true">2.</strong> Novels</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="novels/fiction.html"><strong aria-hidden="true">2.1.</strong> Fiction</a></li><li class="chapter-item expanded "><a href="novels/non_fiction.html"><strong aria-hidden="true">2.2.</strong> Non-Fiction</a></li></ol></li><li class="chapter-item expanded "><a href="monographs.html"><strong aria-hidden="true">3.</strong> Monographs</a></li><li class="chapter-item expanded "><a href="papers.html"><strong aria-hidden="true">4.</strong> Papers</a></li><li class="chapter-item expanded "><a href="conferences.html" class="active"><strong aria-hidden="true">5.</strong> Conferences</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="welcome.html">Welcome</a></li><li class="chapter-item expanded "><a href="textbooks.html"><strong aria-hidden="true">1.</strong> Textbooks</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="textbooks/ml.html"><strong aria-hidden="true">1.1.</strong> Inference and Learning</a></li><li class="chapter-item expanded "><a href="textbooks/systems.html"><strong aria-hidden="true">1.2.</strong> Information Security (and Systems at large)</a></li><li class="chapter-item expanded "><a href="textbooks/others.html"><strong aria-hidden="true">1.3.</strong> Others</a></li><li class="chapter-item expanded "><a href="textbooks/to_read.html"><strong aria-hidden="true">1.4.</strong> To-read</a></li></ol></li><li class="chapter-item expanded "><a href="novels.html"><strong aria-hidden="true">2.</strong> Novels</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="novels/fiction.html"><strong aria-hidden="true">2.1.</strong> Fiction</a></li><li class="chapter-item expanded "><a href="novels/non_fiction.html"><strong aria-hidden="true">2.2.</strong> Non-Fiction</a></li></ol></li><li class="chapter-item expanded "><a href="monographs.html"><strong aria-hidden="true">3.</strong> Monographs</a></li><li class="chapter-item expanded "><a href="papers.html"><strong aria-hidden="true">4.</strong> Papers</a></li><li class="chapter-item expanded "><a href="conferences.html" class="active"><strong aria-hidden="true">5.</strong> Conferences</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
@@ -198,22 +198,6 @@
 
         </div>
 
-        <!-- Livereload script (if served using the cli tool) -->
-        <script>
-            const wsProtocol = location.protocol === 'https:' ? 'wss:' : 'ws:';
-            const wsAddress = wsProtocol + "//" + location.host + "/" + "__livereload";
-            const socket = new WebSocket(wsAddress);
-            socket.onmessage = function (event) {
-                if (event.data === "reload") {
-                    socket.close();
-                    location.reload();
-                }
-            };
-
-            window.onbeforeunload = function() {
-                socket.close();
-            }
-        </script>
 
 
 
