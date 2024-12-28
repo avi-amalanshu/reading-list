@@ -5,8 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="added README + added CTaP to mono">
+      <change afterPath="$PROJECT_DIR$/src/monographs/ml.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/monographs/prog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/monographs/sys.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/textbooks/ml.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/textbooks/ml.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/conferences.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/conferences.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/monographs.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/monographs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/novels.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/novels/fiction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/novels/non_fiction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/print.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/print.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/searchindex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/searchindex.json" beforeDir="false" afterPath="$PROJECT_DIR$/book/searchindex.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/textbooks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/textbooks/ml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/textbooks/others.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/textbooks/systems.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/textbooks/to_read.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/monographs.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/monographs/monographs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/novels/fiction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/novels/non_fiction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textbooks/ml.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/mltext.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +73,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/monographs" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
