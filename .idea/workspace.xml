@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="monographs base content">
+    <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="added README + added CTaP to mono">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/monographs.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/monographs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/textbooks/ml.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/textbooks/ml.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +68,7 @@
       <workItem from="1730807185806" duration="2252000" />
       <workItem from="1731238738343" duration="1319000" />
       <workItem from="1731240319419" duration="88000" />
-      <workItem from="1735206861606" duration="23913000" />
+      <workItem from="1735206861606" duration="25285000" />
     </task>
     <task id="LOCAL-00001" summary="mdbook init + test deploy">
       <option name="closed" value="true" />
@@ -118,7 +118,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735402775013</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added README + added CTaP to mono">
+      <option name="closed" value="true" />
+      <created>1735403609876</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735403609876</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +138,7 @@
     <MESSAGE value="committing html files for new mds" />
     <MESSAGE value="textbooks base content" />
     <MESSAGE value="monographs base content" />
-    <option name="LAST_COMMIT_MESSAGE" value="monographs base content" />
+    <MESSAGE value="added README + added CTaP to mono" />
+    <option name="LAST_COMMIT_MESSAGE" value="added README + added CTaP to mono" />
   </component>
 </project>
