@@ -15,8 +15,8 @@ Inference, and Learning Algorithms" v7.2, Cambridge University Press, 2005)
 ## Alternatively...
 I've heard [ISLR/ISLP](https://www.statlearning.com) is great and covers pretty much all the important parts of what I've described above. I haven't read it myself (it's rather new), but it looks great if you're into less math rigor and more English-heavy explanations. The authors are folks who have developed some pretty fundamental works in statistics in their own research. (G. James, D. Witten, T. Hastie, R. Tibshirani, J. Taylor "An introduction to statistical learning" w/ Applications in Python, Springer, 2023). 
 
-## State-of-the-Art ML
+## State-of-the-Art Learning
 1. Though some think it's long in the tooth, at least the first two sections of the OG [Deep Learning book](https://www.deeplearningbook.org) are excellent background. (I. Goodfellow, Y. Bengio, A. Courville "Deep learning", MIT Press, 2016).
-2. [The Bishops' Deep Learning book](https://www.bishopbook.com) is a more modern (as of '24) book from the authors of the OG ML book, Pattern Recog. & Mach. Intel. (C.M. Bishop, H. Bishop "Deep Learning Foundations and Concepts", Springer, 2024)
+2. [The Bishops' Deep Learning book](https://www.bishopbook.com) is a more modern (as of '24) book. I haven't read this myself either but the author's OG ML book, Pattern Recog. & Mach. Intel., was great. (C.M. Bishop, H. Bishop "Deep Learning Foundations and Concepts", Springer, 2024)
 ## Special Topics
 WIP
