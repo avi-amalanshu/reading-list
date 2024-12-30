@@ -1,5 +1,7 @@
 # Awesome Machine Learning Monographs
+...and book chapters
 ## Neurosymbolic and Neurocausal Learning
+  * [Neuro-Causal Models](https://www.cs.cmu.edu/~pradeepr/paperz/chap-ncm-final.pdf) (Aragam and Ravikumar 2024) 
   * [Causal Fairness Analysis - A Causal Toolkit for Fair Machine Learning](https://causalai.net/r90.pdf) (Plečko and Bareinboim 2024)
   * [Neurosymbolic AI for Reasoning Over Knowledge Graphs: A Survey](https://arxiv.org/pdf/2302.07200) (DeLong et al. 2023)
   * [Neurosymbolic Programming](https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf) (Chaudhuri et al. 2021)

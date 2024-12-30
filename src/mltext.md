@@ -1,5 +1,5 @@
 # Inference and Learning
-I think people getting into ML (especially via self-study) sometimes try to get away with the bare minimum of probability. 
+I think people just getting into ML often try to get away with the bare minimum of probability. 
 I am a staunch believer in studying in-context from statistics and information theory, even if your personal interests
 don't require them (if they do, I suggest a more rigorous treatment than what I prescribe here). Besides gaining a more 
 fundamental and usable understanding, the bigger picture-view makes it easier to focus on the right things. And, extra insight never hurt anyone.
