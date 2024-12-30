@@ -8,4 +8,5 @@
   - [Programming](./monographs/prog.md)
 - [Papers](./papers.md)
 - [Conferences](./conferences.md)
-- [Novels](./novels.md)
+
+[//]: # (- [Novels]&#40;./novels.md&#41;)
