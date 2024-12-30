@@ -8,4 +8,4 @@
   - [Programming](./monographs/prog.md)
 - [Papers](./papers.md)
 - [Conferences](./conferences.md)
-- [Novels](https://www.goodreads.com/user/show/151678731-avi)
+- [Novels](./novels.md)
