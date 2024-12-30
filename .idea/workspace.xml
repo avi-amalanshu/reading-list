@@ -4,8 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="missing file">
+    <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="content">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/conferences.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/conferences.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/mltext.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/mltext.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/monographs/ml.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/monographs/ml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/monographs/monographs.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/monographs/monographs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/monographs/prog.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/monographs/prog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/monographs/sys.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/monographs/sys.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/papers.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/papers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/print.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/print.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/book/searchindex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/searchindex.json" beforeDir="false" afterPath="$PROJECT_DIR$/book/searchindex.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/book/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SUMMARY.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +88,7 @@
       <workItem from="1731238738343" duration="1319000" />
       <workItem from="1731240319419" duration="88000" />
       <workItem from="1735206861606" duration="25285000" />
+      <workItem from="1735549377106" duration="1231000" />
     </task>
     <task id="LOCAL-00001" summary="mdbook init + test deploy">
       <option name="closed" value="true" />
@@ -155,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735466425288</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="content">
+      <option name="closed" value="true" />
+      <created>1735549677193</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735549677193</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +194,7 @@
     <MESSAGE value="reorg" />
     <MESSAGE value="uh ideally this shouldn't change anything but the deployment is broken" />
     <MESSAGE value="missing file" />
-    <option name="LAST_COMMIT_MESSAGE" value="missing file" />
+    <MESSAGE value="content" />
+    <option name="LAST_COMMIT_MESSAGE" value="content" />
   </component>
 </project>
