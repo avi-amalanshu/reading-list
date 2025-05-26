@@ -12,7 +12,7 @@ Use the sidebar to navigate. Happy reading!
     - Measure Theory
     - Functional Analysis basics
 - [Category Theory](./category.md)
-- [Formal Logic and Languages](./logic.md)
+- [Logic](./logic.md)
 - [Combinatorics](./combinatorics.md)
     - Combinatorics introduction
     - Enumerative combinatorics
@@ -22,4 +22,5 @@ Use the sidebar to navigate. Happy reading!
 - [Probability & Statistics](./stats.md)
 - [Programming Languages](lang.md)
 - [Computer Systems](./systems.md)
+- [Novels](./novels.md)
 - [Algorithms](./algo.md)

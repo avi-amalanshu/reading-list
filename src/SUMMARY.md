@@ -9,6 +9,7 @@
 - [Programming Languages](lang.md)
 - [Computer Systems](./systems.md)
 - [Algorithms](./algo.md)
+- [Novels](novels.md)
 - [Old](old.md)
     - [Texts on Inference and Learning](./old/mltext.md)
     - [Monographs](./old/monographs/monographs.md)
