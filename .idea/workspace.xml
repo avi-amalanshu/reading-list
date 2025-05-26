@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="goodreads link" />
+    <list default="true" id="bd1652c1-38b3-4a02-97ab-849c52b43dcb" name="Changes" comment="removed goodreads link for now">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +74,9 @@
       <workItem from="1731238738343" duration="1319000" />
       <workItem from="1731240319419" duration="88000" />
       <workItem from="1735206861606" duration="25285000" />
-      <workItem from="1735549377106" duration="1888000" />
+      <workItem from="1735549377106" duration="2853000" />
+      <workItem from="1746299895912" duration="3243000" />
+      <workItem from="1747394235681" duration="904000" />
     </task>
     <task id="LOCAL-00001" summary="mdbook init + test deploy">
       <option name="closed" value="true" />
@@ -170,7 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735551562714</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="goodreads link embed">
+      <option name="closed" value="true" />
+      <created>1735553058324</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735553058324</updated>
+    </task>
+    <task id="LOCAL-00014" summary="removed goodreads link for now">
+      <option name="closed" value="true" />
+      <created>1735553131990</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1735553131990</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +208,8 @@
     <MESSAGE value="missing file" />
     <MESSAGE value="content" />
     <MESSAGE value="goodreads link" />
-    <option name="LAST_COMMIT_MESSAGE" value="goodreads link" />
+    <MESSAGE value="goodreads link embed" />
+    <MESSAGE value="removed goodreads link for now" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed goodreads link for now" />
   </component>
 </project>
