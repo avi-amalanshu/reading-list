@@ -38,7 +38,7 @@
 * **EvoEmacsLisp**: Stefan Monnier and Michael Sperber; [Evolution of Emacs Lisp](https://dl.acm.org/doi/pdf/10.1145/3386324) *in HOPL-IV, 2021*
 * **HistoryClojure**: Rich Hickey; [A History of Clojure](https://dl.acm.org/doi/pdf/10.1145/3386321) *in HOPL-IV, 2021*
 * **HistoryHaskell**: Paul Hudak et al. [A history of Haskell: being lazy with class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf) *in HOPL-III, 2007*
-* **GreatGood**: ; [Learn You A Haskell For A Great Good](https://learnyouahaskell.com/introduction)
+* **GreatGood**: Miran Lipovaca; [Learn You A Haskell For A Great Good](https://learnyouahaskell.com/introduction)
 * **HistoryStandardML**: David MacQueen, Robert Harper, John Reppy; [The History of Standard ML](https://smlfamily.github.io/history/SML-history.pdf) *in HOPL-IV, 2021*
 * **BriefHistoryProlog**: Fernando Pereira; [A Brief Introduction to Prolog](https://dl.acm.org/doi/pdf/10.1145/154766.155398)
 * **BirthOfProlog**: Colmerauer and Roussel; [The Birth of Prolog](https://dl.acm.org/doi/pdf/10.1145/154766.155362) *in HOPL-II, 1993*
