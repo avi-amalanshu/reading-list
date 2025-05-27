@@ -1,8 +1,9 @@
 # Combinatorics
 1. **MAT307** lectures 1-6
-2. **PTC**
-3. **CTGD**
-## Enumerative basics
+2. ...
+    * **PTC**
+    * **CTGD**
+## Enumerative Basics
 1. **Inf Desc** chapters 6-8
 2. **Ardila** lectures 1-7
 3. **Counting**
@@ -11,7 +12,7 @@
 2. **Analytic** chapters 1-3
 ## Linear Algebraic Methods
 1. **LinAlg**
-## Extremal Combinatorics Basics
+## Extremal Basics
 1. **Extremal** chapters 6-8
 ## Bibliography
 * **MAT307**: Jacob Fox; [MAT 307: Combinatorics](https://math.mit.edu/~fox/MAT307.html)
