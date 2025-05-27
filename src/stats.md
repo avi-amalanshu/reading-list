@@ -31,19 +31,19 @@
 1. **MacKay** chapters 4-6, 8-17, 24 
 
 ## Probabilistic Graphical Models
-### Undirected Models
+### Graphical Models
+1. **Murphy** chapter 4
+#### Undirected Models
 1. **MacKay** chapter 31
-2. **Murphy** chapter 4.2
-### Directed Models
+#### Directed Models
 1. **MacKay** chapter 37
 2. **Bishop-Bishop** chapter 11
-3. **Murphy** chapter 4.1
 ### Variational Methods
 1. **MacKay** chapter 33
 2. **Blei et al.**
-### Monte Carlo Methods
+### Sampling and Monte Carlo Methods
 1. **MacKay** chapters 29-30, 3
-2. **Bishop-Bishop** chapter 14.2
+2. **Bishop-Bishop** chapter 14
 ### Deep Generative Models
 1. **MacKay** chapter 43
 2. **VAEs**
