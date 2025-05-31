@@ -12,7 +12,6 @@ Use the sidebar to navigate. Happy reading!
     - Measure Theory
     - Functional Analysis basics
 - [Category Theory](./category.md)
-- [Logic](./logic.md)
 - [Combinatorics](./combinatorics.md)
     - Combinatorics introduction
     - Enumerative combinatorics

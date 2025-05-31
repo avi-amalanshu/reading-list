@@ -3,7 +3,6 @@
 [Summer 2025 Reading](./welcome.md)
 - [Analysis](analysis.md)
 - [Category Theory](category.md)
-- [Logic](logic.md)
 - [Combinatorics](combinatorics.md)
 - [Probability & Statistics](stats.md)
 - [Programming Languages](lang.md)

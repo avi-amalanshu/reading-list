@@ -10,3 +10,5 @@
 2. Tal Hoffman; [Software Transactional Memory: a stairway to lock-free programming heaven?](https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f)
 3. Sidharth M.; [How Nginx Handles Thousands of Concurrent Requests
 ](https://medium.com/@_sidharth_m_/how-nginx-handles-thousands-of-concurrent-requests-202ca1a1cc44)
+## Other
+1. [The Missing Semester](https://missing.csail.mit.edu)
