@@ -51,6 +51,9 @@
 ### Causality and GNNs
 1. **Bishop-Bishop** chapter 13
 2. **Wasserman** chapter 16
+3. **Bayesian Epistemology**
+4. **Elements of Causal Inference** chapters 1, 3-4
+5. **Pearl** chapters 7-11
 
 ## Bibliography
 * **Wasserman**: Larry Wasserman; [All of Statistics](https://egrcc.github.io/docs/math/all-of-statistics.pdf)
@@ -63,5 +66,8 @@
 * **Murphy**: Kevin Murphy; [Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * **Blei et al.**: David M. Blei, Alp Kucukelbir, Jon D. McAuliffe; [Variational Inference: A Review for Statisticians](https://arxiv.org/pdf/1601.00670)
 * **VAEs**: Diederik P. Kingma, Max Welling; [An Introduction to Variational Autoencoders](https://arxiv.org/pdf/1906.02691)
+* **Bayesian Epistemology**: https://plato.stanford.edu/entries/epistemology-bayesian/
+* **Pearl** Judea Pearl; [Causality](https://projects.illc.uva.nl/cil/uploaded_files/inlineitem/Pearl_2009_Causality.pdf)
+* **Elements of Causal Inference**: Peters, Janzing and Scholkopf; [Elements of Causal Inference](https://web.math.ku.dk/~peters/jonas_files/ElementsOfCausalInference.pdf)
 * **Wainwright-Jordan**: Martin J. Wainwright and Michael I. Jordan; [Graphical Models, Exponential Families, and
 Variational Inference](https://www.cs.columbia.edu/~blei/fogm/2023F/readings/WainwrightJordan2008.pdf)
