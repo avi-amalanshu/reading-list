@@ -5,9 +5,9 @@
 2. **Probability Course**
 
 ## Statistical Learning Theory
-1. **ESL** chapter 1
+1. **ESL** chapter 1, 5
 2. **MacKay** chapter 3
-3. **Wasserman** chapter 6, 9-10
+3. **Wasserman** chapter 6, 8-10
 
 ### Supervised Learning
 1. **ESL** chapter 2
@@ -35,14 +35,14 @@
 1. **Murphy** chapter 4
 #### Undirected Models
 1. **MacKay** chapter 31
+2. **Wasserman** chapter 18
 #### Directed Models
 1. **MacKay** chapter 37
-2. **Bishop-Bishop** chapter 11
+3. **Wasserman** chapter 17
 ### Variational Methods
 1. **MacKay** chapter 33
-2. **Blei et al.**
 ### Sampling and Monte Carlo Methods
-1. **MacKay** chapters 29-30, 3
+1. **MacKay** chapter~~s~~ 29~~-30, 32~~
 2. **Bishop-Bishop** chapter 14
 ### Deep Generative Models
 1. **MacKay** chapter 43

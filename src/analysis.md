@@ -1,7 +1,7 @@
 # Analysis
 
 ## Introduction to Real Analysis
-1. **Abbott** chapters 1-3
+1. **Abbott** chapters 1-4
 2. **Carothers** chapters 1, 3-4
 3. **Big Rudin** chapters 2-5
 
