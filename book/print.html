@@ -91,7 +91,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded affix "><a href="welcome.html">Hello</a></li><li class="chapter-item expanded affix "><a href="old/old.html">Old versions</a></li><li class="chapter-item expanded "><a href="old/old1/old1.html"><strong aria-hidden="true">1.</strong> v1</a></li><li class="chapter-item expanded "><a href="old/old2/old2.html"><strong aria-hidden="true">2.</strong> v2</a></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded affix "><a href="welcome.html">Hello</a></li><li class="chapter-item expanded "><a href="gold.html"><strong aria-hidden="true">1.</strong> Gold</a></li><li class="chapter-item expanded "><a href="misc.html"><strong aria-hidden="true">2.</strong> Misc</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
@@ -183,36 +183,51 @@
 <p>I mostly intend to use this as a live, remote personal agenda that I can access from any device anywhere. If you're here and you're not me, I can't guarantee that you'll find anything useful.</p>
 <p>If there's something you think I missed or might be of interest to me, please contact me (see contact section on my webpage linked above).</p>
 <p>Use the sidebar to navigate. Happy reading!</p>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="old-versions"><a class="header" href="#old-versions">Old versions</a></h1>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="old1"><a class="header" href="#old1">Old1</a></h1>
-<ul>
-<li><a href="old/old1/conferences.html">conferences.md</a></li>
-<li><a href="old/old1/mltext.html">mltext.md</a></li>
-<li><a href="old/old1/novels.html">novels.md</a></li>
-<li><a href="old/old1/papers.html">papers.md</a></li>
-<li><a href="old/old1/textbooks.html">textbooks.md</a></li>
-<li><a href="old/old1/monographs/ml.html">monographs/ml.md</a></li>
-<li><a href="old/old1/monographs/monographs.html">monographs/monographs.md</a></li>
-<li><a href="old/old1/monographs/prog.html">monographs/prog.md</a></li>
-<li><a href="old/old1/monographs/sys.html">monographs/sys.md</a></li>
-<li><a href="old/old1/textbooks/others.html">textbooks/others.md</a></li>
-<li><a href="old/old1/textbooks/systems.html">textbooks/systems.md</a></li>
-<li><a href="old/old1/textbooks/to_read.html">textbooks/to_read.md</a></li>
-</ul>
-<div style="break-before: page; page-break-before: always;"></div><h1 id="old2"><a class="header" href="#old2">Old2</a></h1>
-<ul>
-<li><a href="old/old2/algo.html">algo.md</a></li>
-<li><a href="old/old2/analysis.html">analysis.md</a></li>
-<li><a href="old/old2/category.html">category.md</a></li>
-<li><a href="old/old2/combinatorics.html">combinatorics.md</a></li>
-<li><a href="old/old2/lang.html">lang.md</a></li>
-<li><a href="old/old2/logic.html">logic.md</a></li>
-<li><a href="old/old2/novels.html">novels.md</a></li>
-<li><a href="old/old2/stats.html">stats.md</a></li>
-<li><a href="old/old2/SUMMARY.html">SUMMARY.md</a></li>
-<li><a href="old/old2/systems.html">systems.md</a></li>
-<li><a href="old/old2/welcome.html">welcome.md</a></li>
-</ul>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="gem-alert"><a class="header" href="#gem-alert">Gem Alert</a></h1>
+<p>Here is a list of manuscripts (papers/articles/monographs/tutorials etc.) that I find myself referring to in an unexpectedly diverse variety of contexts.</p>
+<h2 id="probabilistic-modelling-and-variational-inference"><a class="header" href="#probabilistic-modelling-and-variational-inference">Probabilistic Modelling and Variational Inference</a></h2>
+<ol>
+<li>Albergo, Boffi, Vanden-Eijden: <a href="https://arxiv.org/abs/2303.08797">Stochastic Interpolants: A Unifying Framework for Flows and Diffusions.</a> (<a href="https://github.com/malbergo/stochastic-interpolants">official impl</a>) <em>rigorous, unifying analysis and generalization of continous-time stochastic interpolation</em></li>
+<li>McAllester, Stratos: <a href="https://arxiv.org/pdf/1811.04251">Formal Limitations on the Measurement of Mutual Information</a> (<a href="https://github.com/karlstratos/doe">official impl</a>) <em>fundamental KL and MI estimation bounds, interesting proof technique</em></li>
+<li>Krueger et al.: <a href="https://arxiv.org/pdf/1710.04759">Bayesian Hypernetworks</a> <em>very flexible and underexplored Bayesian model</em></li>
+<li>Touchette: <a href="https://terpconnect.umd.edu/~cjarzyns/CHEM-CHPH-PHYS_703_Spr_20/resources/Touchette-2009.pdf">The large deviation approach to statistical mechanics</a> <em>digestible bridge to statistical mechanics for people with ml bg</em></li>
+<li>Luo: <a href="https://arxiv.org/pdf/2208.11970">Understanding Diﬀusion Models: A Unified Perspective</a> <em>have only skimmed through this, but recommended reading imo</em></li>
+<li>Zhi-Han <a href="https://arxiv.org/pdf/2208.07818">Training Latent Variable Models with Auto-encoding Variational Bayes: A Tutorial</a> <em>intuitive exposition of AEVB as approximate EM</em></li>
+<li>Marion et al.: <a href="https://arxiv.org/abs/2402.05468v3">Implicit Diffusion: Efficient Optimization through Stochastic Sampling</a> (<a href="https://github.com/google-deepmind/implicit_diffusion">official impl</a>) <em>optimize implicit models from samples/without going through likelihood estimation</em></li>
+</ol>
+<h2 id="nonparametric-and-semiparametric-inference"><a class="header" href="#nonparametric-and-semiparametric-inference">Nonparametric and Semiparametric Inference</a></h2>
+<ol>
+<li>Chernozhukov et al.: <a href="https://arxiv.org/pdf/2104.14737">Automatic Debiased Machine Learning via Riesz Regression</a> (<a href="https://github.com/victor5as/RieszLearning">official impl for a follow-up work</a>) <em>foundational for AutoDML</em></li>
+<li>Foster and Syrgkanis: <a href="https://arxiv.org/pdf/1901.09036">Orthogonal Statistical Learning</a> (<a href="https://github.com/syrgkanislab/orthogonal_learning">official impl</a>) <em>analysis like AutoDML outside the standard M/Z-estimand form</em></li>
+<li>Tibshirani: <a href="https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf">Conformal Prediction</a> <em>gentle and balanced introduction to conformal prediction</em></li>
+<li>Han et al.: <a href="https://arxiv.org/pdf/1711.02141">Optimal rates of entropy estimation over Lipschitz balls</a> <em>synthesis of various ways of using simple polynomial approximations for estimating functionals</em></li>
+</ol>
+<h2 id="representation-learning"><a class="header" href="#representation-learning">Representation Learning</a></h2>
+<ol>
+<li>Zhai et al.: <a href="https://openreview.net/pdf?id=4GZwFPzLgW">Contextures: Representations from Contexts</a> <em>fundamental work in our understanding of representation learning + scaling laws, math is a little terse though</em></li>
+<li>Tsai, Yeh, Ravikumar: <a href="https://jmlr.org/papers/volume24/22-0202/22-0202.pdf">Faith-Shap: The Faithful Shapley Interaction Index</a> (<a href="https://github.com/chepingt/Faith-Shap">official impl</a>) <em>feature importance w/o unhealthy assumptions</em></li>
+</ol>
+<h2 id="misc"><a class="header" href="#misc">Misc.</a></h2>
+<ol>
+<li>Lin: <a href="https://plato.stanford.edu/entries/epistemology-bayesian/#ClosExpaTerrBaye">Bayesian Epistemology</a> <em>scratches a certain itch</em></li>
+</ol>
+<div style="break-before: page; page-break-before: always;"></div><h1 id="misc-1"><a class="header" href="#misc-1">Misc</a></h1>
+<p>Index of random stuff I haven't read yet but suspect might be useful at some point in the future</p>
+<h2 id="generic-deep-learning-stuff"><a class="header" href="#generic-deep-learning-stuff">Generic deep learning stuff</a></h2>
+<ol>
+<li><a href="https://cs231n.github.io/convolutional-networks/#comp">CNN fwd/backward</a></li>
+<li><a href="https://weightagnostic.github.io">Weight Agnostic Neural Networks blog</a></li>
+<li><a href="https://arxiv.org/pdf/2601.14354">Variational JEPA</a></li>
+<li><a href="https://arxiv.org/pdf/2511.16652">EGGROLL</a></li>
+</ol>
+<h2 id="systems"><a class="header" href="#systems">Systems</a></h2>
+<ol>
+<li><a href="https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f">Software Transactional Memory blogpost</a></li>
+<li><a href="https://en.algorithmica.org/hpc/">Algorithmica/HPC (parallelism)</a></li>
+<li><a href="https://mcyoung.xyz/2021/06/01/linker-script/">Everything You Never Wanted To Know About Linker Script</a></li>
+<li><a href="https://rust-unofficial.github.io/too-many-lists/">Learn R*st With Entirely Too Many Linked Lists</a></li>
+<li><a href="https://karpathy.github.io/2021/06/21/blockchain/">A From-Scratch Tour of Bitcoin in Python</a></li>
+</ol>
 
                     </main>
 
