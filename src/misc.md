@@ -6,7 +6,7 @@ Index of random stuff (most of which I haven't read yet but suspect might be use
 3. [Variational JEPA](https://arxiv.org/pdf/2601.14354)
 4. [EGGROLL](https://arxiv.org/pdf/2511.16652)
 ## Systems
-I still enjoy systems as a hobby. Sadly, owing to the allure of AI-assisted code generation, I find myself thinking about it less and less. Also, unlike undergrad, my graduate coursework (much less less research) is very far removed from systems. As a result there is a huge and growing backlog of stuff here.
+I still enjoy systems as a hobby. Sadly, owing to the allure of AI-assisted code generation, I find myself thinking about it less and less. (Of course, to whatever extent system design is inapplicable to the high-level architecture I embed in my prompts to begin with). Perhaps more saliently: unlike undergrad, my graduate coursework (much less research) is very far removed from systems. As a result there is a huge and growing backlog of stuff here.
 1. [Software Transactional Memory blogpost](https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f)
 2. [Algorithmica/HPC (parallelism)](https://en.algorithmica.org/hpc/)
 3. [Everything You Never Wanted To Know About Linker Script](https://mcyoung.xyz/2021/06/01/linker-script/)
