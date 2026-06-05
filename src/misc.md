@@ -1,12 +1,12 @@
 # Misc
-Index of random stuff (most of which I haven't read yet but suspect might be useful at some point in the future)
+Index of random stuff (most of which I haven't read yet but suspect might be useful at some point in the future). 
 ## Generic deep learning stuff
 1. [Conv2d flattened impl fwd/backward](https://cs231n.github.io/convolutional-networks/#comp)
 2. [Weight Agnostic Neural Networks blog](https://weightagnostic.github.io)
 3. [Variational JEPA](https://arxiv.org/pdf/2601.14354)
 4. [EGGROLL](https://arxiv.org/pdf/2511.16652)
 ## Systems
-I still enjoy systems as a hobby. Sadly, owing to the allure of AI-assisted code generation, I find myself thinking about it less and less. (Of course, to whatever extent system design is inapplicable to the high-level architecture I embed in my prompts to begin with). Perhaps more saliently: unlike undergrad, my graduate coursework (much less research) is very far removed from systems. As a result there is a huge and growing backlog of stuff here.
+I still enjoy messing with computer systems as a hobby. Sadly, owing to the allure of AI-assisted code generation, I find myself thinking about it less and less. (Of course, to whatever extent system design and systems-level considerations are inapplicable to the high-level architecture I embed in my prompts to begin with). Perhaps more saliently: unlike undergrad, my graduate coursework (much less research) is very far removed from systems. As a result there is a huge and growing backlog of stuff here.
 1. [Software Transactional Memory blogpost](https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f)
 2. [Algorithmica/HPC (parallelism)](https://en.algorithmica.org/hpc/)
 3. [Everything You Never Wanted To Know About Linker Script](https://mcyoung.xyz/2021/06/01/linker-script/)
@@ -17,3 +17,6 @@ I still enjoy systems as a hobby. Sadly, owing to the allure of AI-assisted code
 8. [The Path of a Packet through the Linux Kernel](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2024-04-1/NET-2024-04-1_16.pdf)
 9. [Writing a Simple Garbage Collector in C](https://maplant.com/2020-04-25-Writing-a-Simple-Garbage-Collector-in-C.html)
 10. [How Nginx Handles Thousands of Concurrent Requests](https://medium.com/@_sidharth_m_/how-nginx-handles-thousands-of-concurrent-requests-202ca1a1cc44)
+11. [PicoCTF 2021 - Binary Exploitation Challenge Writeups](https://heartburn.dev/picoctf-2021-binary-exploitation/)
+
+(I won't ever *remove* anything from here, so I *might* have read some of this. But I might not, so don't blame me if something is terribly wrong with some of these.)
