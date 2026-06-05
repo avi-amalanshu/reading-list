@@ -1,5 +1,5 @@
 # Misc
-Index of random stuff (most of which I haven't read yet but suspect might be useful at some point in the future). 
+Index of random stuff (most of which I haven't read yet but suspect might be useful at some point in the future). Mostly for my own reference.
 ## Generic deep learning stuff
 1. [Conv2d flattened impl fwd/backward](https://cs231n.github.io/convolutional-networks/#comp)
 2. [Weight Agnostic Neural Networks blog](https://weightagnostic.github.io)
@@ -18,5 +18,7 @@ I still enjoy messing with computer systems as a hobby. Sadly, owing to the allu
 9. [Writing a Simple Garbage Collector in C](https://maplant.com/2020-04-25-Writing-a-Simple-Garbage-Collector-in-C.html)
 10. [How Nginx Handles Thousands of Concurrent Requests](https://medium.com/@_sidharth_m_/how-nginx-handles-thousands-of-concurrent-requests-202ca1a1cc44)
 11. [PicoCTF 2021 - Binary Exploitation Challenge Writeups](https://heartburn.dev/picoctf-2021-binary-exploitation/)
+
+---
 
 (I won't ever *remove* anything from here, so I *might* have read some of this. But I might not, so don't blame me if something is terribly wrong with some of these.)
