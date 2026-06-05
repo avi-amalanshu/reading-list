@@ -14,6 +14,6 @@ I still enjoy systems as a hobby. Sadly, owing to the allure of AI-assisted code
 5. [A From-Scratch Tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
 6. [What every systems programmer should know about concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf)
 7. [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
-8. [The Path of a Packet through the Linux Kernel](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2024-04-1/NET-2024-04-1_16.pdf]
+8. [The Path of a Packet through the Linux Kernel](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2024-04-1/NET-2024-04-1_16.pdf)
 9. [Writing a Simple Garbage Collector in C](https://maplant.com/2020-04-25-Writing-a-Simple-Garbage-Collector-in-C.html)
 10. [How Nginx Handles Thousands of Concurrent Requests](https://medium.com/@_sidharth_m_/how-nginx-handles-thousands-of-concurrent-requests-202ca1a1cc44)
