@@ -6,4 +6,5 @@ src = "src"
 title = "reading-list"
 
 [output.html]
+site-url = "/reading-list/"
 mathjax-support = true
